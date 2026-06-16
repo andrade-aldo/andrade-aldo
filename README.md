@@ -29,7 +29,6 @@ I combine years as a Senior Cloud Architect and Educator to guide customers thro
 - 🧬 I started in science with a Bachelor of Science (BSc) in Biochemistry and a Graduate Diploma in Genomics and Biotechnology before going all-in on cloud
 - ☁️ I've worked hands-on across all three major clouds: Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
 - 🎓 Part architect, part educator: I love teaching and enabling teams
-- 📍 Proudly based in Montreal (Dorval), Quebec, Canada
 
 ## 🧰 Tech I work with
 
