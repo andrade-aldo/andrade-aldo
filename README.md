@@ -17,7 +17,7 @@ I combine years as a Senior Cloud Architect and Educator to guide customers thro
 - Subject Matter Expert (SME), Infrastructure & Networking, and Google Cloud Platform (GCP) Support Specialist at TELUS Communications
 - Information Security and Web Development Manager at Veritas IRB Inc.
 
-## 💡 Ask me about
+## Ask me about
 - Multi-cloud architecture across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
 - Artificial Intelligence (AI) adoption and cloud modernization
 - Securing and optimizing enterprise workloads
@@ -25,12 +25,11 @@ I combine years as a Senior Cloud Architect and Educator to guide customers thro
 - Anything else, I'm always happy to help!
 
 ## Fun facts about me
-- 🗣️ I'm trilingual: English, French, and Spanish (all native or bilingual)
-- 🧬 I started in science with a Bachelor of Science (BSc) in Biochemistry and a Graduate Diploma in Genomics and Biotechnology before going all-in on cloud
-- ☁️ I've worked hands-on across all three major clouds: Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
-- 🎓 Part architect, part educator: I love teaching and enabling teams
+- I'm trilingual: English, French, and Spanish (all native or bilingual)
+- I started in science with a Bachelor of Science (BSc) in Biochemistry and a Graduate Diploma in Genomics and Biotechnology before going all-in on cloud
+- Part architect, part educator: I love teaching and enabling teams
 
-## 🧰 Tech I work with
+## Tech I work with
 
 **Cloud**
 
