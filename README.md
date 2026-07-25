@@ -5,7 +5,7 @@
 I combine years as a Senior Cloud Architect and Educator to guide customers through Cloud Modernization and AI adoption. My hands-on expertise across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) lets me deliver strategic leadership for securing and optimizing enterprise workloads.
 
 ## What I'm working on
--  Cloud & Artificial Intelligence (AI) Solution Engineering @Microsoft
+-  Cloud & AI Solution Engineering @Microsoft
 -  Guiding enterprises through Cloud Modernization and AI adoption
 -  Securing and optimizing enterprise workloads across Azure, AWS, and GCP
 -  Building agentic tooling and Infrastructure as Code (IaC) automation
@@ -19,7 +19,7 @@ I combine years as a Senior Cloud Architect and Educator to guide customers thro
 
 ## Ask me about
 - Multi-cloud architecture across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
-- Artificial Intelligence (AI) adoption and cloud modernization
+- Artificial Intelligence adoption and cloud modernization
 - Securing and optimizing enterprise workloads
 - Cloud enablement and education
 - Anything else, I'm always happy to help!
