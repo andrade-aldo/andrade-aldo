@@ -2,33 +2,6 @@
 
 ### Solutions Expert @Microsoft | Cloud & AI
 
-I combine years as a Senior Cloud Architect and Educator to guide customers through Cloud Modernization and AI adoption. My hands-on expertise across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP) lets me deliver strategic leadership for securing and optimizing enterprise workloads.
-
-## What I'm working on
--  Cloud & AI Solution Engineering @Microsoft
--  Guiding enterprises through Cloud Modernization and AI adoption
--  Securing and optimizing enterprise workloads across Azure, AWS, and GCP
--  Building agentic tooling and Infrastructure as Code (IaC) automation
-
-## What I have worked on
-- Senior Cloud Architect at CGI (2021 to 2026), leading cloud architecture and modernization for enterprise customers
-- Solutions Architect at CloudOps.
-- Technical Account Manager (TAM) at Amazon Web Services (AWS)
-- Subject Matter Expert (SME), Infrastructure & Networking, and Google Cloud Platform (GCP) Support Specialist at TELUS Communications
-- Information Security and Web Development Manager at Veritas IRB Inc.
-
-## Ask me about
-- Multi-cloud architecture across Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)
-- Artificial Intelligence adoption and cloud modernization
-- Securing and optimizing enterprise workloads
-- Cloud enablement and education
-- Anything else, I'm always happy to help!
-
-## Fun facts about me
-- I'm trilingual: English, French, and Spanish (all native or bilingual)
-- I started in science with a Bachelor of Science (BSc) in Biochemistry and a Graduate Diploma in Genomics and Biotechnology before going all-in on cloud
-- Part architect, part educator: I love teaching and enabling teams
-
 ## Tech I work with
 
 **Cloud**
